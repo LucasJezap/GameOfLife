@@ -96,8 +96,8 @@ Java IDE: IntelliJ IDEA
 Owner: Łukasz Jezapkowicz  
 
 # Java doc
-Java documentation can be seen in all source files. You can generate JavaDoc with any Java IDE e.g. Intellij IDEA by
-clicking Tools-> Generate JavaDoc... .
+Java documentation can be seen in all source files.  
+You can generate JavaDoc with any Java IDE e.g. Intellij IDEA by clicking Tools-> Generate JavaDoc... .
 
 # Credits
 Thanks to [Novomatic Technologies Poland S.A.](https://novomatic-tech.com/) for giving me the idea to make this
