@@ -40,4 +40,6 @@ This pattern is generated in a random place on the grid.
 This pattern is generated in a random place on the grid.  
 ![Tumbler](tumbler.PNG)  
 ## Controls
-![Settings](settings.PNG)  
+### Enter - start the game, change pattern  
+### Shift - allow boundary neighbours, disallow boundary neighbours
+### Escape - close the game
