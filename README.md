@@ -19,3 +19,22 @@ These rules, which compare the behavior of the automaton to real life, can be co
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.  
 ## How does it work? (Game Sample)
 ![](golgif.gif)
+## Game features
+Basic implementation rules:  
+  
+- It's set on 2d grid of size 50x50  
+- Frequency of the game is 30Hz  
+- There are three different initial patterns that are used as a first generation of cells, which are listed below  
+  
+### Initial patterns:  
+  
+#### 1. Random Pattern
+Every cell is random. There is a 50/50 chance for cell to be alive at the start.  
+  
+#### 2. The Queen Bee Shuttle Pattern
+This pattern is generated in a random place on the grid.
+![Queen Bee](queen.png)  
+
+#### 3. Tumbler Pattern
+This pattern is generated in a random place on the grid.
+![Tumbler](tumbler.png)  
