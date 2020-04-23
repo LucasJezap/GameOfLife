@@ -52,7 +52,19 @@ The player might start the game by pressing Enter once.
 The player can switch between patterns at any time. Pressing Enter while the game is on results in game being  
 stopped and initial pattern being switched to the next one.  
   
-Pattern list: Random -> The Queen Bee Shuttle -> Tumbler -> Random -> ...  
+Pattern list:  
+Random -> The Queen Bee Shuttle -> Tumbler -> Random -> ...  
 
 ## Boundary neighbours  
-lol
+The player might decide to either allow or disallow boundary neighbours.  
+  
+The whole concept of boundary neighbours concerns cells which don't have 8 neighbours. In other words, they are on the grid's borders.  
+  
+We can either let those cells have less than 8 neighbours or attribute them with appropriate cells which would be in their neighbourhood
+if we wrapped the grid.  
+  
+The player can change this setting dynamically throughout the game which allows many interesting situations and anomalies to happen.  
+For example patterns which loop infinitely by coming back to initial pattern can be broken with putting walls on grid's borders.
+
+## Closing the game
+The player might close the game by pressing Escape at any given time.
