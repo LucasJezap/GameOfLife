@@ -39,7 +39,20 @@ This pattern is generated in a random place on the grid.
 #### 3. Tumbler Pattern  
 This pattern is generated in a random place on the grid.  
 ![Tumbler](tumbler.PNG)  
+
 ## Controls
 ### Enter - start the game, change pattern  
 ### Shift - allow boundary neighbours, disallow boundary neighbours
 ### Escape - close the game
+
+## Start the game
+The player might start the game by pressing Enter once.  
+
+## Switching between patterns
+The player can switch between patterns at any time. Pressing Enter while the game is on results in game being  
+stopped and initial pattern being switched to the next one.  
+  
+Pattern list: Random -> The Queen Bee Shuttle -> Tumbler -> Random -> ...  
+
+## Boundary neighbours  
+lol
