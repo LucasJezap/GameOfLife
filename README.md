@@ -1,7 +1,7 @@
 # GameOfLife
 Java implementation of classic Conway's Game of Life. Tribute to John Horton Conway, let him rest in peace. 
 # Table of Contents
-- [What's Game of Life](#what's-game-of-life)
+- [What's Game of Life](#what\'s-game-of-life)
 - [Rules](#rules)
 - [How does it work](#how-does-it-work)
 - [Boundary Neighbours](#boundary-neighbours)  
