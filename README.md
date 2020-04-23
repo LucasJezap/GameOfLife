@@ -10,6 +10,7 @@ Java implementation of classic Conway's Game of Life. Tribute to John Horton Con
 - [Switching between patterns](#switching-between-patterns)
 - [Boundary Neighbours](#boundary-neighbours)
 - [Closing the game](#closing-the-game)
+- [Download](#download)
 
 # Game of Life
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves  
@@ -82,3 +83,8 @@ The player might close the game by pressing Escape at any given time.
 
 # Download
 You can download the Java Executable <a href="https://drive.google.com/open?id=1b6nFQHHutJBrWnUmRxj53BXJdXuImoPX"> here
+
+# Implementation details
+
+# Credits
+Thanks to <a href="https://novomatic-tech.com/NOVOMATIC"> Novomatic Technologies Poland S.A.
