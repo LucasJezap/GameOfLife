@@ -82,10 +82,10 @@ For example patterns which loop infinitely by coming back to initial pattern can
 The player might close the game by pressing Escape at any given time.
 
 # Download
-You can download the Java Executable <a href="https://drive.google.com/open?id=1b6nFQHHutJBrWnUmRxj53BXJdXuImoPX"> here  
+You can download the Java Executable [here](https://drive.google.com/open?id=1b6nFQHHutJBrWnUmRxj53BXJdXuImoPX).
 
 # Implementation details
 
 # Credits
-Thanks to <a href="https://novomatic-tech.com/NOVOMATIC"> Novomatic Technologies Poland S.A.  
-
+Thanks to [Novomatic Technologies Poland S.A.](https://novomatic-tech.com/NOVOMATIC) for giving me the idea of making this
+project.
