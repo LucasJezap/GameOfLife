@@ -12,6 +12,7 @@ Java implementation of classic Conway's Game of Life. Tribute to John Horton Con
 - [Closing the game](#closing-the-game)
 - [Download](#download)
 - [Implementation Details](#implementation-details)
+- [Java Doc](#java-doc)
 - [Credits](#credits)
 
 # Game of Life
@@ -93,6 +94,10 @@ Project implemented in Java, especially JavaFX with Maven.
 Java version: 14  
 Java IDE: IntelliJ IDEA  
 Owner: Łukasz Jezapkowicz  
+
+# Java doc
+Java documentation can be seen in all source files. You can generate JavaDoc with any Java IDE e.g. Intellij IDEA by
+clicking Tools-> Generate JavaDoc... .
 
 # Credits
 Thanks to [Novomatic Technologies Poland S.A.](https://novomatic-tech.com/) for giving me the idea to make this
