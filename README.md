@@ -1,4 +1,4 @@
-# GameOfLife
+# Game Of Life
 Java implementation of classic Conway's Game of Life. Tribute to John Horton Conway, let him rest in peace. 
 # Table of Contents
 - [Game of Life](#game-of-life)
@@ -79,3 +79,6 @@ For example patterns which loop infinitely by coming back to initial pattern can
 
 # Closing the game
 The player might close the game by pressing Escape at any given time.
+
+# Download
+You can download the Java Executable <a href="https://drive.google.com/open?id=1b6nFQHHutJBrWnUmRxj53BXJdXuImoPX"> here
