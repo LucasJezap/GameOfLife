@@ -1,8 +1,8 @@
 # GameOfLife
 Java implementation of classic Conway's Game of Life. Tribute to John Horton Conway, let him rest in peace.  
-## What's Game of Life?
+# What's Game of Life?
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves  
-## Rules
+# Rules
 The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:  
   
 - Any live cell with fewer than two live neighbours dies, as if by underpopulation.  
@@ -17,9 +17,9 @@ These rules, which compare the behavior of the automaton to real life, can be co
 - All other live cells die in the next generation. Similarly, all other dead cells stay dead.  
   
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.  
-## How does it work? (Game Sample)
+# How does it work? (Game Sample)
 ![](golgif.gif)
-## Game features
+# Game features
 Basic implementation rules:  
   
 - It's set on 2d grid of size 50x50  
@@ -40,22 +40,22 @@ This pattern is generated in a random place on the grid.
 This pattern is generated in a random place on the grid.  
 ![Tumbler](tumbler.PNG)  
 
-## Controls
+# Controls
 ### Enter - start the game, change pattern  
 ### Shift - allow boundary neighbours, disallow boundary neighbours
 ### Escape - close the game
 
-## Start the game
+# Start the game
 The player might start the game by pressing Enter once.  
 
-## Switching between patterns
+# Switching between patterns
 The player can switch between patterns at any time. Pressing Enter while the game is on results in game being  
 stopped and initial pattern being switched to the next one.  
   
 Pattern list:  
 Random -> The Queen Bee Shuttle -> Tumbler -> Random -> ...  
 
-## Boundary neighbours  
+# Boundary neighbours  
 The player might decide to either allow or disallow boundary neighbours.  
   
 The whole concept of boundary neighbours concerns cells which don't have 8 neighbours. In other words, they are on the grid's borders.  
@@ -66,5 +66,5 @@ if we wrapped the grid.
 The player can change this setting dynamically throughout the game which allows many interesting situations and anomalies to happen.  
 For example patterns which loop infinitely by coming back to initial pattern can be broken with putting walls on grid's borders.
 
-## Closing the game
+# Closing the game
 The player might close the game by pressing Escape at any given time.
