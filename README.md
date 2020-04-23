@@ -80,7 +80,7 @@ if we wrapped the grid.
 The player can change this setting dynamically throughout the game which allows many interesting situations and anomalies to happen.  
   
 For example patterns which loop infinitely by coming back to initial pattern can be broken with putting walls on grid's borders.  
-For example Tumbler pattern is such a pattern.  
+Tumbler pattern is one of such patterns.  
 
 # Closing the game
 The player might close the game by pressing Escape at any given time.
@@ -89,6 +89,10 @@ The player might close the game by pressing Escape at any given time.
 You can download the Java Executable [here](https://drive.google.com/open?id=1b6nFQHHutJBrWnUmRxj53BXJdXuImoPX).
 
 # Implementation details
+Project implemented in Java, especially JavaFX with Maven.  
+Java version: 14  
+Java IDE: IntelliJ IDEA  
+Owner: Łukasz Jezapkowicz  
 
 # Credits
 Thanks to [Novomatic Technologies Poland S.A.](https://novomatic-tech.com/) for giving me the idea to make this
