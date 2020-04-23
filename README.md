@@ -32,9 +32,9 @@ Basic implementation rules:
 Every cell is random. There is a 50/50 chance for cell to be alive at the start.  
   
 #### 2. The Queen Bee Shuttle Pattern
-This pattern is generated in a random place on the grid.
+This pattern is generated in a random place on the grid.  
 ![Queen Bee](queen.PNG)  
-
-#### 3. Tumbler Pattern
-This pattern is generated in a random place on the grid.
+  
+#### 3. Tumbler Pattern  
+This pattern is generated in a random place on the grid.  
 ![Tumbler](tumbler.PNG)  
