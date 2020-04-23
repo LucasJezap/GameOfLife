@@ -26,6 +26,7 @@ Basic implementation rules:
 - Frequency of the game is 30Hz  
 - There are three different initial patterns that are used as a first generation of cells, which are listed below  
   
+Developers may change this settings to their preferences as well as many other settings avalaible in the implementation.  
 ### Initial patterns:  
   
 #### 1. Random Pattern
@@ -38,3 +39,5 @@ This pattern is generated in a random place on the grid.
 #### 3. Tumbler Pattern  
 This pattern is generated in a random place on the grid.  
 ![Tumbler](tumbler.PNG)  
+## Controls
+![Settings](settings.PNG)  
