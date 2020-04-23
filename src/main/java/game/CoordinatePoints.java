@@ -26,6 +26,8 @@ class CoordinatePoints {
      * @param cols - y coordinates of the points to be inserted to the set
      */
     CoordinatePoints(int[] rows, int[] cols) {
+        if (rows.length != cols.length)
+            throw new IllegalArgumentException("The sizes are not equal!");
         this.size = rows.length;
         this.rows = rows;
         this.cols = cols;

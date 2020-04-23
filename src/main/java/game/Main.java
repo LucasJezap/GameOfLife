@@ -2,6 +2,7 @@ package game;
 
 import javafx.animation.Animation;
 import javafx.application.Application;
+import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
@@ -37,7 +38,7 @@ public class Main extends Application {
     static int rowNum = 50;
     static int colNum = 50;
     static int recSize;
-    static double framesPerSecond = 30;
+    static int framesPerSecond = 30;
     static Pattern currentPattern;
     static boolean isStopped;
     static boolean allowNeighbours;
@@ -72,6 +73,8 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch(args);
+        Platform.exit();
+        System.exit(0);
     }
 }
 
