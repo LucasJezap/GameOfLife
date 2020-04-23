@@ -57,7 +57,7 @@ stopped and initial pattern being switched to the next one.
 Pattern list:  
 Random -> The Queen Bee Shuttle -> Tumbler -> Random -> ...  
 
-# Boundary neighbours  
+# Boundary Neighbours  
 The player might decide to either allow or disallow boundary neighbours.  
   
 The whole concept of boundary neighbours concerns cells which don't have 8 neighbours. In other words, they are on the grid's borders.  
