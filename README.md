@@ -78,7 +78,9 @@ We can either let those cells have less than 8 neighbours or attribute them with
 if we wrapped the grid.  
   
 The player can change this setting dynamically throughout the game which allows many interesting situations and anomalies to happen.  
-For example patterns which loop infinitely by coming back to initial pattern can be broken with putting walls on grid's borders.
+  
+For example patterns which loop infinitely by coming back to initial pattern can be broken with putting walls on grid's borders.  
+For example Tumbler pattern is such a pattern.  
 
 # Closing the game
 The player might close the game by pressing Escape at any given time.
