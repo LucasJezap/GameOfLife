@@ -33,7 +33,7 @@ These rules, which compare the behavior of the automaton to real life, can be co
   
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.  
 # How does it work
-![](golgif.gif)
+![](https://github.com/LucasJezap/ImagesAndSoOn/blob/master/golgif.gif)
 # Game features
 Basic implementation rules:  
   
