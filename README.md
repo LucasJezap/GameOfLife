@@ -49,11 +49,11 @@ Every cell is random. There is a 50/50 chance for cell to be alive at the start.
   
 #### 2. The Queen Bee Shuttle Pattern
 This pattern is generated in a random place on the grid.  
-![Queen Bee](/photos/queen.PNG)  
+![Queen Bee](https://github.com/LucasJezap/GameOfLife/blob/master/photos/queen.png)  
   
 #### 3. Tumbler Pattern  
 This pattern is generated in a random place on the grid.  
-![Tumbler](/photos/tumbler.PNG)  
+![Tumbler](https://github.com/LucasJezap/GameOfLife/blob/master/photos/tumbler.PNG)  
 
 # Controls
 ### Enter - start the game, change pattern  
