@@ -53,7 +53,7 @@ This pattern is generated in a random place on the grid.
   
 #### 3. Tumbler Pattern  
 This pattern is generated in a random place on the grid.  
-![Tumbler](https://github.com/LucasJezap/GameOfLife/blob/master/photos/tumbler.PNG)  
+![Tumbler](https://github.com/LucasJezap/GameOfLife/blob/master/photos/tumbler.png)  
 
 # Controls
 ### Enter - start the game, change pattern  
